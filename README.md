@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexis Analuisa</h1>
 <h3 align="center">Estudiante de la carrera de Análisis de Sistema.</h3>
-
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 - 📫 How to reach me **alexis_analuisa1998@hotmail.com**
 
 - ⚡ Fun fact **Me encata los videojuegos en especial Valorant**
