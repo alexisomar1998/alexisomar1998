@@ -1,13 +1,13 @@
-<!-- Banner Rojo/Negro -->
+<!-- Banner Rojo/Negro Animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=200&section=header&text=Alexis%20Analuisa&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=220&section=header&text=Alexis%20Analuisa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<h3 align="center">Futuro Ingeniero Backend | Mentalidad Radiant</h3>
+<h3 align="center">💻 Futuro Ingeniero Backend | Mentalidad Radiant</h3>
 
 <p align="center">
-🧠 Arquitectura de Sistemas • 🗄️ Bases de Datos • ⚔️ Disciplina Competitiva  
-🎮 Valorant & League of Legends • 🎸 Rock • 🎨 Arte • ⚡ Pokémon
+🧠 Arquitectura de Sistemas • 🗄️ Bases de Datos • ⚔️ Disciplina Competitiva<br>
+🎮 <img src="https://upload.wikimedia.org/wikipedia/en/7/77/Valorant_logo.png" width="25"/> Valorant & <img src="https://upload.wikimedia.org/wikipedia/en/7/77/League_of_Legends_logo.png" width="25"/> LoL • 🎸 Rock • 🎨 Arte • ⚡ Pokémon
 </p>
 
 ---
@@ -19,26 +19,26 @@
 🗄️ Especializado en diseño y optimización de bases de datos relacionales  
 📈 Mejora constante a través de proyectos reales  
 
-Entiendo el desarrollo como una partida competitiva: precisión, estructura y escalabilidad a largo plazo.
+El desarrollo lo trato como partidas competitivas: precisión, estructura y escalabilidad a largo plazo.
 
 ---
 
 ## 🧠 Enfoque Técnico
 
-• Diseño de APIs REST  
-• Arquitectura en capas (Presentación, Negocio, Datos)  
-• Normalización de Bases de Datos (1FN, 2FN, 3FN)  
-• Optimización de consultas SQL y performance tuning  
-• Control de integridad referencial  
-• Desarrollo Backend con C#, Java y PHP  
-• MySQL, PostgreSQL y SQL Server  
+- Diseño de APIs REST  
+- Arquitectura en capas (Presentación, Negocio, Datos)  
+- Normalización de Bases de Datos (1FN, 2FN, 3FN)  
+- Optimización de consultas SQL y performance tuning  
+- Control de integridad referencial  
+- Desarrollo Backend con C#, Java y PHP  
+- MySQL, PostgreSQL y SQL Server  
 
 ---
 
-## 🛠 Stack Tecnológico
+## 🛠 Stack Tecnológico Animado
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,php,dotnet,mysql,postgres,sqlserver&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,java,php,dotnet,mysql,postgres,sqlserver&theme=dark" width="40"/>
 </p>
 
 ---
@@ -47,27 +47,37 @@ Entiendo el desarrollo como una partida competitiva: precisión, estructura y es
 
 ### 🗄️ Sistema de Gestión Empresarial
 
-Aplicación backend desarrollada con arquitectura en capas, enfocada en escalabilidad y buenas prácticas.
+Aplicación backend con arquitectura en capas, enfocada en escalabilidad y buenas prácticas.
 
 🔹 Arquitectura en capas (Presentación, Negocio, Datos)  
 🔹 API REST estructurada  
-🔹 Base de datos relacional normalizada hasta 3FN  
+🔹 Base de datos normalizada hasta 3FN  
 🔹 Optimización de consultas SQL  
 🔹 Control de integridad referencial  
-🔹 Manejo de autenticación y validaciones  
+🔹 Autenticación y validaciones  
 
-Tecnologías utilizadas: C# / .NET – SQL Server – MySQL
+**Tecnologías utilizadas:** C# / .NET – SQL Server – MySQL  
+
+🔗 **Repositorio:** [Sistema de Gestión](https://github.com/alexisomar1998/NOMBRE_DEL_REPO)
+
+---
+
+### 🗂️ Diagrama de Arquitectura
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alexisomar1998/NOMBRE_DEL_REPO/main/diagrama-arquitectura.svg" alt="Diagrama de Arquitectura" width="650"/>
+</p>
 
 ---
 
 ### 🎯 Enfoque Técnico del Proyecto
 
-El objetivo del proyecto fue aplicar principios de:
+Principios aplicados:  
 
-• Separación de responsabilidades  
-• Clean Code  
-• Diseño relacional eficiente  
-• Escalabilidad futura  
+- Separación de responsabilidades  
+- Clean Code  
+- Diseño relacional eficiente  
+- Escalabilidad futura  
 
 Este proyecto refleja mi enfoque como desarrollador backend:
 estructura sólida, lógica clara y bases de datos bien diseñadas.
