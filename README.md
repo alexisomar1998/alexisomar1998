@@ -37,9 +37,14 @@ El desarrollo lo trato como partidas competitivas: precisión, estructura y esca
 ---
 
 ## 🛠 Stack Tecnológico Animado
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,php,dotnet,mysql,postgres,sqlserver&theme=dark" width="40"/>
+  <img src="https://skillicons.dev/icons?i=cs" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=java" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=php" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=sqlserver" width="60" height="60"/>
 </p>
 
 ---
@@ -63,13 +68,6 @@ Aplicación backend con arquitectura en capas, enfocada en escalabilidad y buena
 
 ---
 
-### 🗂️ Diagrama de Arquitectura
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alexisomar1998/NOMBRE_DEL_REPO/main/diagrama-arquitectura.svg" alt="Diagrama de Arquitectura" width="650"/>
-</p>
-
----
 
 ### 🎯 Enfoque Técnico del Proyecto
 
@@ -82,15 +80,6 @@ Principios aplicados:
 
 Este proyecto refleja mi enfoque como desarrollador backend:
 estructura sólida, lógica clara y bases de datos bien diseñadas.
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexisomar1998&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexisomar1998&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
-</p>
 
 ---
 
