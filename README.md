@@ -7,7 +7,8 @@
 
 <p align="center">
 🧠 Arquitectura de Sistemas • 🗄️ Bases de Datos • ⚔️ Disciplina Competitiva<br>
-🎮 <img src="https://upload.wikimedia.org/wikipedia/en/7/77/Valorant_logo.png" width="25"/> Valorant & <img src="https://upload.wikimedia.org/wikipedia/en/7/77/League_of_Legends_logo.png" width="25"/> LoL • 🎸 Rock • 🎨 Arte • ⚡ Pokémon
+<p align="center">
+🎮 Valorant & LoL • 🎸 Rock • 🎨 Arte • ⚡ Pokémon
 </p>
 
 ---
